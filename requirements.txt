@@ -1,0 +1,4 @@
+# BlackShield dependencies
+
+# Core uses Python standard library
+# Add third-party packages here when required

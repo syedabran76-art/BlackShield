@@ -1,0 +1,13 @@
+BlackShield v1.0.0
+
+Status:
+STABLE
+
+Type:
+Modular Cybersecurity Toolkit
+
+Platform:
+Python / Termux Compatible
+
+Release:
+First Stable Version

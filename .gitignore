@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+*.db
+*.sqlite
+
+logs/*.log
+
+.env
+
+.idea/
+.vscode/
+
+reports/*
+!reports/.gitkeep

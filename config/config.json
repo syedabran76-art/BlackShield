@@ -1,0 +1,8 @@
+{
+    "name": "BlackShield",
+    "version": "1.0.0",
+    "developer": "BlackShield Team",
+    "debug": false,
+    "logging": true,
+    "theme": "default"
+}
